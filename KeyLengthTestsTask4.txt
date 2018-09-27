@@ -1,0 +1,6 @@
+keywordLength = 3 successLength = 1.0 successKeywordEps = 1.0 successKeywordWhole = 0.06666666666666667
+keywordLength = 5 successLength = 1.0 successKeywordEps = 1.0 successKeywordWhole = 0.1
+keywordLength = 7 successLength = 0.8666666666666667 successKeywordEps = 0.8666666666666667 successKeywordWhole = 0.0
+keywordLength = 10 successLength = 0.5333333333333333 successKeywordEps = 0.5333333333333333 successKeywordWhole = 0.0
+keywordLength = 15 successLength = 0.7 successKeywordEps = 0.5666666666666667 successKeywordWhole = 0.0
+keywordLength = 20 successLength = 0.3333333333333333 successKeywordEps = 0.2 successKeywordWhole = 0.0
